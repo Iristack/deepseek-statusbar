@@ -59,7 +59,7 @@
 
 ### 下载安装（推荐）
 
-从 [Releases](https://github.com/zoisite/DeepSeekStatusBar/releases) 页面下载最新 `.dmg`，拖入 `/Applications` 文件夹后启动即可。
+从 [Releases](https://github.com/Iristack/DeepSeekStatusBar/releases) 页面下载最新 `.dmg`，拖入 `/Applications` 文件夹后启动即可。
 
 > 首次启动时，macOS 可能弹出安全提示。在「系统设置 → 隐私与安全性」中允许运行即可。
 
