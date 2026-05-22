@@ -1,6 +1,7 @@
 # DeepSeek Status Bar
 
 <p align="center">
+  <a href="./README_en.md"><img src="https://img.shields.io/badge/English-README_EN-blue" alt="README_EN"></a>
   <img src="https://img.shields.io/badge/platform-macOS%2026%2B-blue?logo=apple" alt="Platform">
   <img src="https://img.shields.io/badge/swift-5.10%2B-F05138?logo=swift" alt="Swift">
   <img src="https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative" alt="License">
