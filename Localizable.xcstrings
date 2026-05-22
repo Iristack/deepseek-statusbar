@@ -1,0 +1,272 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+
+    },
+    "Account" : {
+      "comment" : "SettingsView",
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "账户"
+          }
+        }
+      }
+    },
+    "Account balance unavailable" : {
+      "comment" : "Error when API reports balance is unavailable",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "账号余额不可用"
+          }
+        }
+      }
+    },
+    "API Key" : {
+
+    },
+    "API Key is not set. Please enter it in Settings." : {
+      "comment" : "BillingServiceError: missing API key",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API Key 未设置，请在设置中填入。"
+          }
+        }
+      }
+    },
+    "Apply" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "应用"
+          }
+        }
+      }
+    },
+    "Balance: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "余额: %@"
+          }
+        }
+      }
+    },
+    "Click \"Apply\" at the bottom right to take effect." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改后请点击右下角“应用”按钮生效。"
+          }
+        }
+      }
+    },
+    "Currency: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "币种: %@"
+          }
+        }
+      }
+    },
+    "DeepSeek API Key" : {
+
+    },
+    "Enter an integer between 60 and 3600, then click \"Apply\" to reset the timer." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请输入 60 至 3600 之间的整数，点击“应用”后生效并重置定时器。"
+          }
+        }
+      }
+    },
+    "Error" : {
+      "comment" : "Menu bar status on error",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "错误"
+          }
+        }
+      }
+    },
+    "Failed to save API Key to Keychain (error %d)." : {
+      "comment" : "Keychain save error alert"
+    },
+    "Failed to save API Key to Keychain (error %lld)." : {
+      "comment" : "Keychain save error alert",
+      "extractionState" : "stale",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "API Key 保存到钥匙串失败（错误 %lld）"
+          }
+        }
+      }
+    },
+    "Granted: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "赠送: %@"
+          }
+        }
+      }
+    },
+    "Interval (seconds):" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "间隔(秒)"
+          }
+        }
+      }
+    },
+    "Invalid response format" : {
+      "comment" : "BillingServiceError: unparseable response",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "响应格式无效"
+          }
+        }
+      }
+    },
+    "Loading…" : {
+      "comment" : "Menu bar status while loading",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "加载中…"
+          }
+        }
+      }
+    },
+    "Network error: %@" : {
+      "comment" : "BillingServiceError: network failure",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "网络错误：%@"
+          }
+        }
+      }
+    },
+    "No balance data" : {
+      "comment" : "Menu bar status when no balance info available",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无余额数据"
+          }
+        }
+      }
+    },
+    "No balance data available" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无余额数据"
+          }
+        }
+      }
+    },
+    "Please set API Key" : {
+      "comment" : "Menu bar prompt when API key is not set",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请设置 API Key"
+          }
+        }
+      }
+    },
+    "Quit" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出"
+          }
+        }
+      }
+    },
+    "Refresh" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刷新"
+          }
+        }
+      }
+    },
+    "Refresh Settings" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刷新设置"
+          }
+        }
+      }
+    },
+    "Server error (%lld)" : {
+      "comment" : "BillingServiceError: HTTP error",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "服务器错误（%lld）"
+          }
+        }
+      }
+    },
+    "Settings…" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置…"
+          }
+        }
+      }
+    },
+    "Top-up: %@" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "充值: %@"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.2"
+}
