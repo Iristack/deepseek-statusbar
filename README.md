@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/platform-macOS%2026%2B-blue?logo=apple" alt="Platform">
   <img src="https://img.shields.io/badge/swift-5.10%2B-F05138?logo=swift" alt="Swift">
   <img src="https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative" alt="License">
-  <img src="https://img.shields.io/github/stars/zoisite/DeepSeekStatusBar?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/Iristack/deepseek-statusbar?style=social" alt="GitHub Stars">
 </p>
 
 **DeepSeek Status Bar** 是一款轻量级 macOS 菜单栏应用，无需打开浏览器即可随时查看 [DeepSeek API](https://platform.deepseek.com) 账户余额。零依赖、零配置、开箱即用。
