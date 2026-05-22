@@ -59,14 +59,14 @@ Done. Your balance appears in the menu bar immediately.
 
 ### Download (Recommended)
 
-Download the latest `.dmg` from the [Releases](https://github.com/zoisite/DeepSeekStatusBar/releases) page. Drag the app to `/Applications` and launch.
+Download the latest `.dmg` from the [Releases](https://github.com/Iristack/deepseek-statusbar/releases) page. Drag the app to `/Applications` and launch.
 
 > On first launch, macOS may show a security warning. Allow it in **System Settings → Privacy & Security**.
 
 ### Build from Source
 
 ```bash
-git clone https://github.com/zoisite/DeepSeekStatusBar.git
+git clone https://github.com/Iristack/deepseek-statusbar.git
 cd DeepSeekStatusBar
 xcodebuild -project DeepSeekStatusBar.xcodeproj -scheme DeepSeekStatusBar build
 ```
