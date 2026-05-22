@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/platform-macOS%2026%2B-blue?logo=apple" alt="Platform">
   <img src="https://img.shields.io/badge/swift-5.10%2B-F05138?logo=swift" alt="Swift">
   <img src="https://img.shields.io/badge/license-MIT-green?logo=open-source-initiative" alt="License">
-  <img src="https://img.shields.io/github/stars/zoisite/DeepSeekStatusBar?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/Iristack/deepseek-statusbar?style=social" alt="GitHub Stars">
 </p>
 
 **DeepSeek Status Bar** is a lightweight macOS menu bar app that keeps your [DeepSeek API](https://platform.deepseek.com) account balance visible at all times. Zero dependencies, zero configuration — just launch and go.
